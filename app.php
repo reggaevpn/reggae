@@ -1,5 +1,5 @@
 {
-  "Boolean": false,
-  "GooglePlay": "GooglePlay",
+  "Boolean": true,
+  "GooglePlay": "https://play.google.com/store/apps/details?id=com.publicreggaevpn.reggaevpn",
   "Message": "รายละเอียด"
 }
