@@ -1,29 +1,19 @@
-3.3
-ตรวจพบไฟล์ใหม่ วันที่ 04/06/2023
-
-🚩อัปเดตเพิ่มเซิฟเวอร์ EE 4 เครื่อง 
-🖥️เครื่อง 2-5
-🚩🇪🇪EE เน็ตแรงมากใช้ทั่วไป เน้นยูทูปลื่นมากๆ 
-
-🚩เซิฟเวอร์ทั้งหมด
-🇹🇭Server Thailand
-•CAT_BANGRAK ใช้ทั่วไป
-•CAT_IRIS เล่นโซเชียล
-•CAT 7 Server ใช้ทั่วไป
-•TH_AIS ใช้ทั่วไป
-•TH_CSL แรงๆ ยูทูปลื่นไหล
-•TH-METRA เน็ตแรงโซเชียลลื่น
-•Free_ViP_GAME 5 Server ใช้เล่นเกมส์
-
-🇪🇪Server Estonia
-•EE 5 Server ใช้ทั่วไป เน้นยูทูปลื่นๆ
-🇦🇺Server Australia
-•AU ใช้ทั่วไป/ดูยูทูป
-🇸🇬Server Singapore
-•SG_OVH 1 Server ใช้ทั่วไป/ดูยูทูป
-•VIP_OVH ใช้ทั่วไป/ดูยูทป
-
-👑Super VIP สำหรับเช่า ติดต่อแอดมิน
-
-⛔เซิฟเวอร์ รีบูท 🕒03:30 ของทุกวัน 
-ทำให้หลุดจากการเชื่อมต่อชั่วขณะ
+{
+  "version": 1.0,
+  "message": "รายละเอียดอัปเดต",
+  "data": [
+    {
+      "name": "TH AIS-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
+      "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ1d3czb3JoaCIsCiAgImFkZCI6ICIxMDMuODIuMjQ5Ljc4IiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjFkZTE2YjA0LTljYTAtNGZhNC04Yjc3LWJmOWE1YjBkODlkMiIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIKfQ=="
+    }, {
+      "name": "TH DTAC-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
+      "content": "vmess://eyJhZGQiOiIxMDMuODIuMjQ5Ljc4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLndlYnRvb25zLmNvbSIsImlkIjoiMWRlMTZiMDQtOWNhMC00ZmE0LThiNzctYmY5YTViMGQ4OWQyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoidXd3M29yaGgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
+    }, {
+      "name": "TH TRUE-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
+      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZ2LjJpbjF2cG4ubmV0IiwiaWQiOiI5M2UwNzMyZC00OWE0LTQ0MDQtOWY3Ni04NWFhM2ZhODU5MGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJMaW5lLTQ1Y3hqeHRvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+        }
+  ]
+}
