@@ -13,7 +13,7 @@
     }, {
       "name": "TH TRUE-01 ชื่อไทยได้",
       "detail": "รายละเอียด TH 01",
-      "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZ2LjJpbjF2cG4ubmV0IiwiaWQiOiI5M2UwNzMyZC00OWE0LTQ0MDQtOWY3Ni04NWFhM2ZhODU5MGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJMaW5lLTQ1Y3hqeHRvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+      "content": "vmess://eyJhZGQiOiIwOjA6MDowOjA6RkZGRjo2ODEyOkFBMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidnYuMmluMXZwbi5uZXQiLCJpZCI6IjkzZTA3MzJkLTQ5YTQtNDQwNC05Zjc2LTg1YWEzZmE4NTkwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkxpbmUtNDVjeGp4dG8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
         }
   ]
 }
