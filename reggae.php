@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
+  "version": 1.1,
   "message": "รายละเอียดอัปเดต",
   "data": [
     {
@@ -11,7 +11,7 @@
       "detail": "รายละเอียด TH 01",
       "content": "vmess://eyJhZGQiOiIxMDMuODIuMjQ5Ljc4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtLndlYnRvb25zLmNvbSIsImlkIjoiMWRlMTZiMDQtOWNhMC00ZmE0LThiNzctYmY5YTViMGQ4OWQyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoidXd3M29yaGgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9"
     }, {
-      "name": "TH TRUE-01 ชื่อไทยได้",
+      "name": "EE TRUE-01 ชื่อไทยได้",
       "detail": "รายละเอียด TH 01",
       "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZ2LjJpbjF2cG4ubmV0IiwiaWQiOiI5M2UwNzMyZC00OWE0LTQ0MDQtOWY3Ni04NWFhM2ZhODU5MGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJMaW5lLTQ1Y3hqeHRvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
         }
