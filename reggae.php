@@ -9,7 +9,7 @@
 ✔️กันรั่วดีเทค กด *117*30# 20บาท ใช้ได้30วัน",
   "data": [
     {
-      "name": "TH AIS-01 ชื่อไทยได้",
+      "name": "TH 01_AIS-Play",
       "detail": "รายละเอียด TH 01",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ1d3czb3JoaCIsCiAgImFkZCI6ICIxMDMuODIuMjQ5Ljc4IiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogIjFkZTE2YjA0LTljYTAtNGZhNC04Yjc3LWJmOWE1YjBkODlkMiIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiLyIsCiAgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
