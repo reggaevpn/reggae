@@ -20,7 +20,7 @@
     }, {
       "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_01",
       "detail": "ทรูเฟสบุ๊คเกมมิ่ง/สเถียรใช้งานทั่วไปได้",
-      "content": "vless://3d752da5-6f68-4138-8861-b8d186c87fef@th1.2in1vpn.net:445?security=tls&encryption=none&alpn=http/1.1&headerType=http&type=tcp&sni=connect.facebook.com#th1face"
+      "content": "vless://3d752da5-6f68-4138-8861-b8d186c87fef@th1.2in1vpn.net:433?type=grpc&serviceName=iop&security=tls&fp=&alpn=http%2F1.1&allowInsecure=1&sni=m.facebook.com#th1face"
     }
   ]
 }
