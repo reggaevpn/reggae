@@ -1,30 +1,32 @@
-{
-  "version": 1.1,
-  "message": "
-🇹🇭Thailand 10 Sever
-🌐Support AIS,TRUE-MOVEH
-🔴ทรูไม่ต้องสมัครโปร 
-🟢ซิม AIS
-➡️โปร AisPlay สมัครคู่กับกันรั่วจึงจะใช้งานได้
-📞AisPlay กด *777*885# 30วัน 64 บ./เดือน
-📞กันรั่ว Ais กด *777*7067# 30วัน 31บ./เดือน ",
-  "data": [
-    {
-      "name": "TH AIS-PLAY_01",
-      "detail": "Ais-Play ต้องใช้คู่กับกันรั่ว",
-      "content": "vless://e2911184-2a22-4b98-bdb1-52062e1521bc@th1.2in1vpn.net:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#th1ais"
-    }, {
-      "name": "TH DTAC-ยังใช้ไม่ได้_01",
-      "detail": "ดีเทคโนโปรใช้งานทั่วไป",
-      "content": "vless://25a0214e-eb2e-4e31-a988-ba5095fc089c@truefree.2in1vpn.net:80?path=%2F&security=none&encryption=none&host=th1.2in1vpn.net&type=ws#th1truenopro"
-    }, {
-      "name": "TH TRUE-NOPRO_01",
-      "detail": "ทรูโนโปรใช้งานทั่วไป",
-      "content": "vless://25a0214e-eb2e-4e31-a988-ba5095fc089c@truefree.2in1vpn.net:80?path=%2F&security=none&encryption=none&host=th1.2in1vpn.net&type=ws#th1truenopro"
-    }, {
-      "name": "TH TRUE-เฟสบุ๊คเกมมิ่ง_01",
-      "detail": "ทรูเฟสบุ๊คเกมมิ่งใช้งานทั่วไป",
-      "content": "vless://3d752da5-6f68-4138-8861-b8d186c87fef@th1.2in1vpn.net:433?type=grpc&serviceName=iop&security=tls&fp=&alpn=http%2F1.1&allowInsecure=1&sni=m.facebook.com#th1face"
-    }
-  ]
-}
+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
+lcKSpeNxHTkZ
